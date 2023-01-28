@@ -10,6 +10,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    position: relative;
 }
 
 canvas {
@@ -42,7 +43,7 @@ header {
     border-radius: 1rem;
     width: 50vw;
     padding: 20px;
-    margin: auto;
+    margin: 5rem auto;
     display: grid;
     gap: 50px;
     grid-template-columns: 5fr 3fr;
